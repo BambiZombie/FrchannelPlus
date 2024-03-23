@@ -14,7 +14,7 @@ public class MainApplication extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(MainApplication.class.getResource("main.fxml"));
         Parent page = fxmlLoader.load(MainApplication.class.getResource("main.fxml"));
         Scene scene = new Scene(page);
-        stage.setTitle("FrChannel v2 Godzilla Version by BambiZombie");
+        stage.setTitle("FrChannel Plus by BambiZombie");
         stage.setScene(scene);
         stage.show();
     }
