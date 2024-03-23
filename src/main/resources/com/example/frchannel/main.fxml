@@ -75,7 +75,12 @@
                               <Insets left="15.0" top="10.0" />
                            </HBox.margin>
                         </Button>
-                        <Button mnemonicParsing="false" onAction="#InjectMem" prefHeight="30.0" prefWidth="102.0" text="注入内存马">
+                        <Button mnemonicParsing="false" onAction="#InjectMem" prefHeight="30.0" prefWidth="102.0" text="哥斯拉">
+                           <HBox.margin>
+                              <Insets left="15.0" top="10.0" />
+                           </HBox.margin>
+                        </Button>
+                        <Button mnemonicParsing="false" onAction="#InjectSuo5" prefHeight="30.0" prefWidth="102.0" text="Suo5">
                            <HBox.margin>
                               <Insets left="15.0" top="10.0" />
                            </HBox.margin>
